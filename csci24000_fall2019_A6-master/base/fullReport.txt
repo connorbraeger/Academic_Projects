@@ -1,0 +1,50 @@
+First name: Forrest Last Name: Florence Address: 1843 Glenview Drive, Corpus Christi, TX,78401 DOB: 10/12/1992 Grad Date: 5/14/2012 GPA: 3.215 Credit hours: 127
+First name: Roberta Last Name: Casey Address: 3668 Thunder Road, Palo Alto, CA,94306 DOB: 2/13/1983 Grad Date: 5/14/2014 GPA: 2.978 Credit hours: 95
+First name: Sandra Last Name: Koch Address: 2707 Waterview Lane, Apt 302, Las Vegas, NM,87701 DOB: 6/6/1972 Grad Date: 12/14/2015 GPA: 2.546 Credit hours: 69
+First name: Darrel Last Name: Dover Address: 845 Dola Mine Road, Wendell, NC,27591 DOB: 3/31/1968 Grad Date: 5/14/2012 GPA: 3.958 Credit hours: 75
+First name: Doris Last Name: Turner Address: 4489 Tully Street, Apt B, Detroit, MI,48219 DOB: 5/21/1988 Grad Date: 5/14/2014 GPA: 2.127 Credit hours: 187
+First name: Juan Last Name: Hernandez Address: 2656 Creekside Lane, Goleta, CA,93117 DOB: 7/21/1979 Grad Date: 12/14/2015 GPA: 1.598 Credit hours: 156
+First name: Sandy Last Name: Moon Address: 1125 Joyce Street, Mobile, AL,36693 DOB: 12/28/1977 Grad Date: 5/14/2012 GPA: 3.995 Credit hours: 124
+First name: Andre Last Name: Reid Address: 1225 Gnatty Creek Road, Westbury, NY,11590 DOB: 12/19/1986 Grad Date: 5/14/2014 GPA: 2.985 Credit hours: 112
+First name: Tara Last Name: Cracraft Address: 3479 Austin Avenue, Brunswick, GA,31520 DOB: 2/4/1973 Grad Date: 12/14/2015 GPA: 3.256 Credit hours: 162
+First name: Vincent Last Name: Valadez Address: 1740 Parkview Drive, Sugar Land, TX,77478 DOB: 9/23/1975 Grad Date: 5/14/2012 GPA: 3.127 Credit hours: 106
+First name: William Last Name: Howard Address: 816 Wayside Lane, Hayward, CA,94545 DOB: 4/9/1971 Grad Date: 5/14/2014 GPA: 3.568 Credit hours: 95
+First name: Gary Last Name: Mills Address: 2888 Rowes Lane, Irvington, KY,40146 DOB: 4/22/1990 Grad Date: 12/14/2015 GPA: 3.759 Credit hours: 127
+First name: Victoria Last Name: Lett Address: 4250 Pringle Drive, Chicago, IL,60606 DOB: 8/13/1987 Grad Date: 5/14/2012 GPA: 3.862 Credit hours: 95
+First name: William Last Name: Brice Address: 4332 Larry Street, Apt 456, New Berlin, WI,53151 DOB: 1/11/1974 Grad Date: 5/14/2014 GPA: 3.215 Credit hours: 69
+First name: Craig Last Name: Hutchison Address: 3704 Green Street, Nashville, TN,37211 DOB: 9/27/1969 Grad Date: 12/14/2015 GPA: 2.978 Credit hours: 75
+First name: Danielle Last Name: Taylor Address: 4900 Hudson Street, Haledon, NJ,7508 DOB: 7/17/1983 Grad Date: 5/14/2012 GPA: 2.546 Credit hours: 162
+First name: Ermelinda Last Name: Gingerich Address: 3834 Milford Street, Apt F, Sunapee, NH,3782 DOB: 12/17/1973 Grad Date: 5/14/2014 GPA: 3.958 Credit hours: 106
+First name: Derek Last Name: Moody Address: 264 Tetrick Road, Bowling Green, FL,33834 DOB: 10/23/1980 Grad Date: 12/14/2015 GPA: 2.127 Credit hours: 95
+First name: Sonja Last Name: Howell Address: 1093 Olen Thomas Drive, P.O. Box 552, Wichita Falls, TX,76301 DOB: 9/18/1984 Grad Date: 5/14/2012 GPA: 1.598 Credit hours: 124
+First name: Michael Last Name: Miser Address: 1532 South Street, Midland, TX,79701 DOB: 10/25/1967 Grad Date: 5/14/2014 GPA: 3.995 Credit hours: 75
+First name: Robin Last Name: Davenport Address: 4174 Columbia Mine Road, Wheeling, WV,26003 DOB: 3/9/1971 Grad Date: 12/14/2015 GPA: 2.985 Credit hours: 187
+First name: Joycelyn Last Name: Langley Address: 1254 Woodland Drive, Omaha, NE,68114 DOB: 2/8/1979 Grad Date: 5/14/2012 GPA: 3.256 Credit hours: 156
+First name: Ann Last Name: Bryant Address: 1334 Progress Way, Minneapolis, MN,55401 DOB: 2/28/1977 Grad Date: 5/14/2014 GPA: 3.127 Credit hours: 124
+First name: Patrick Last Name: Barnett Address: 2432 Warner Street, Casper, WY,82601 DOB: 7/28/1977 Grad Date: 12/14/2015 GPA: 3.568 Credit hours: 95
+First name: Christopher Last Name: Knepp Address: 1012 Oakmound Road, Chicago, IL,60623 DOB: 2/21/1968 Grad Date: 5/14/2012 GPA: 3.759 Credit hours: 127
+First name: Reginald Last Name: Canfield Address: 4212 Coal Street, Somerset, PA,15501 DOB: 3/21/1988 Grad Date: 5/14/2014 GPA: 3.862 Credit hours: 95
+First name: Margarita Last Name: Lippert Address: 781 Hillcrest Lane, Fullerton, CA,93632 DOB: 6/8/1978 Grad Date: 12/14/2015 GPA: 1.598 Credit hours: 69
+First name: Barbara Last Name: Kist Address: 2103 Mapleview Drive, Jackson, TN,38301 DOB: 11/3/1980 Grad Date: 5/14/2012 GPA: 3.995 Credit hours: 75
+First name: Ladonna Last Name: Waters Address: 68 Oak Ridge Drive, Mexico, MO,65265 DOB: 4/4/1969 Grad Date: 5/14/2014 GPA: 2.985 Credit hours: 187
+First name: Julio Last Name: Shepherd Address: 2446 Camden Street, Reno, NV,89502 DOB: 6/23/1978 Grad Date: 12/14/2015 GPA: 3.256 Credit hours: 156
+First name: Antonio Last Name: Hernandez Address: 3232 Fairmont Avenue, Kansas City, MO,64106 DOB: 3/12/1980 Grad Date: 5/14/2012 GPA: 3.127 Credit hours: 124
+First name: Sharon Last Name: Ridge Address: 3964 Stoney Lane, P.O. Box 549, Dallas, TX,75247 DOB: 1/8/1991 Grad Date: 5/14/2014 GPA: 3.568 Credit hours: 112
+First name: Michael Last Name: Lambert Address: 2174 Kyle Street, Venango, NE,69168 DOB: 10/6/1982 Grad Date: 12/14/2015 GPA: 3.759 Credit hours: 162
+First name: Michael Last Name: Tapp Address: 4569 Shobe Lane, Greeley, CO,80634 DOB: 3/12/1972 Grad Date: 5/14/2012 GPA: 3.862 Credit hours: 106
+First name: Peggy Last Name: Lewis Address: 1601 Hall Valley Drive, Wheeling, WV,26003 DOB: 5/1/1981 Grad Date: 5/14/2014 GPA: 1.598 Credit hours: 127
+First name: Darren Last Name: Smith Address: 2836 Briarwood Road, Springfield, MO,65804 DOB: 5/26/1968 Grad Date: 12/14/2015 GPA: 3.995 Credit hours: 95
+First name: Jeffrey Last Name: Adair Address: 4478 Hillside Street, Phoenix, AZ,85016 DOB: 7/3/1986 Grad Date: 5/14/2012 GPA: 2.985 Credit hours: 69
+First name: Eric Last Name: Greene Address: 569 Pine Garden Lane, Norcross, GA,30091 DOB: 8/10/1972 Grad Date: 5/14/2014 GPA: 3.256 Credit hours: 75
+First name: Mike Last Name: Gilham Address: 3543 Ventura Drive, Apt H, Marina, CA,93933 DOB: 9/27/1980 Grad Date: 12/14/2015 GPA: 2.546 Credit hours: 162
+First name: Tammy Last Name: Dorsey Address: 2111 Liberty Avenue, Los Angeles, CA,90017 DOB: 10/19/1969 Grad Date: 5/14/2012 GPA: 3.958 Credit hours: 106
+First name: Robert Last Name: Lewis Address: 2253 Brannon Avenue, Jacksonville, FL,32216 DOB: 8/6/1979 Grad Date: 5/14/2014 GPA: 2.127 Credit hours: 95
+First name: Craig Last Name: Petitt Address: 2397 My Drive, Garden City, NY,11530 DOB: 6/15/1971 Grad Date: 12/14/2015 GPA: 1.598 Credit hours: 124
+First name: Helen Last Name: Quarles Address: 98 Mount Tabor, New York, NY,10013 DOB: 9/5/1980 Grad Date: 5/14/2012 GPA: 3.995 Credit hours: 75
+First name: Catherine Last Name: Frey Address: 1504 Shobe Lane, Loveland, CO,80537 DOB: 4/5/1981 Grad Date: 5/14/2014 GPA: 2.985 Credit hours: 69
+First name: Sophie Last Name: Ortiz Address: 977 Seltice Way, Apt 56, Boise, ID,83704 DOB: 8/6/1976 Grad Date: 12/14/2015 GPA: 3.256 Credit hours: 75
+First name: Michael Last Name: McAbee Address: 959 Hall Street, Las Vegas, NV,89119 DOB: 3/7/1991 Grad Date: 5/14/2012 GPA: 3.127 Credit hours: 187
+First name: David Last Name: Herrera Address: 3084 Hart Country Lane, Norcross, GA,30093 DOB: 6/19/1981 Grad Date: 5/14/2014 GPA: 2.127 Credit hours: 156
+First name: Paul Last Name: Parry Address: 3425 Valley Street, Vineland, NJ,8360 DOB: 12/17/1973 Grad Date: 12/14/2015 GPA: 1.598 Credit hours: 124
+First name: Lisa Last Name: Carter Address: 1809 Oak Ridge Drive, Rolla, MO,65401 DOB: 2/25/1989 Grad Date: 5/14/2012 GPA: 3.995 Credit hours: 112
+First name: James Last Name: Barbee Address: 4756 Mapleview Drive, Ripley, TN,38063 DOB: 12/27/1983 Grad Date: 5/14/2014 GPA: 2.985 Credit hours: 162

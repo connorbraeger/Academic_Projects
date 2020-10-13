@@ -1,0 +1,5 @@
+integer array horse_position initialized in main function. passes address of the first element in the array
+to the print_position function and check_win function. Both Print_position and check_win functions
+take an integer pointer as their arguments. 
+In order to point to the next element in the array, the ++ operator is used on the int pointer. 
+This allows for the manipulation of the horse array by functions outside the main function.
